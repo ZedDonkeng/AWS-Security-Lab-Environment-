@@ -19,7 +19,7 @@ Designed for cloud security professionals who want to learn through infrastructu
 
 ## 🧪 Labs Catalog
 
-### 1. [Secure Multi-Tier VPC](multi-tier-vpc/)
+### 1. [Secure Multi-Tier VPC](https://github.com/ZedDonkeng/AWS-Security-Lab-Environment-/blob/main/Secure%20Multi-Tier%20VPC)
 🔧 *Tech: CloudFormation, NACLs, WAF*  
 ✅ Implements zero-trust networking with:  
 - Public/private/isolated subnets  
