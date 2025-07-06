@@ -1,6 +1,0 @@
-🔧 Tech: CloudFormation, NACLs, WAF
-✅ Implements zero-trust networking with:
-
-Public/private/isolated subnets
-Application Load Balancer with WAF protection
-VPC Flow Logs integration
