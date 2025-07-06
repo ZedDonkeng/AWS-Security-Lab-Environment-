@@ -26,14 +26,14 @@ Designed for cloud security professionals who want to learn through infrastructu
 - Application Load Balancer with WAF protection  
 - VPC Flow Logs integration  
 
-### 2. [Automated Security Baseline](security-baseline/)
+### 2. [Automated Security Baseline](https://github.com/ZedDonkeng/AWS-Security-Lab-Environment-/blob/main/Automated%20Security%20Baseline.md)
 🔧 *Tech: AWS Organizations, SCPs, AWS Config*  
 ✅ Enforces:  
 - Service Control Policies (SCPs) to block risky APIs  
 - IAM permission boundaries  
 - MFA enforcement for all IAM users  
 
-### 3. [Threat Detection Pipeline](threat-detection/)
+### 3. [Threat Detection Pipeline](https://github.com/ZedDonkeng/AWS-Security-Lab-Environment-/blob/main/Threat%20Detection%20Pipeline.md)
 🔧 *Tech: GuardDuty, Lambda, Security Hub*  
 ✅ Implements:  
 - Automated containment of compromised IAM users  
