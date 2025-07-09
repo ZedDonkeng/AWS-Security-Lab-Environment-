@@ -8,6 +8,8 @@ Welcome to this comprehensive tutorial on setting up a NAT Gateway for your priv
 In our setup, we have a VPC containing both public and private subnets. Resources within the private subnet cannot directly download packages or updates from the internet. AWS NAT Gateway solves this challenge by enabling EC2 instances to communicate with the internet for downloading necessary packages and updates. However, this communication is unidirectional - while private resources can initiate outbound connections, external users cannot directly access resources in the private subnet.
 
 ---
+## Diagram
+- ![image](https://github.com/user-attachments/assets/131939d5-2c9f-4e47-9e22-b0cdd0ca486e)
 
 ## Step 1: Creating the VPC
 
